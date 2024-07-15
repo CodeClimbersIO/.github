@@ -13,7 +13,7 @@ CodeClimber shifts the focus from conventional, top-down tools designed primaril
 With CodeClimber, each digital worker is a significant player in their narrative to create the world they believe in 
 
 ## How can I help?
-Check out the issues page and start to contribute! Please join our [Slack Community](https://join.slack.com/t/codeclimbersio/shared_invite/zt-2kl80xsa9-F9ZL_0hSTQtVBx439Rg8fA) to ask any questions and learn more.
+Check out the issues page and start to contribute! Please join our [Discord Community](https://discord.gg/QUWRb7fX) to ask any questions and learn more.
 
 
 **Here are some ideas to get you started in our slack community:**  
