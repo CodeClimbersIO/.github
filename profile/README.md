@@ -16,7 +16,7 @@ With CodeClimber, each digital worker is a significant player in their narrative
 Check out the issues page and start to contribute! Please join our [Discord Community](https://discord.gg/zBnu8jGnHa) to ask any questions and learn more.
 
 
-**Here are some ideas to get you started in our slack community:**  
+**Here are some ideas to get you started in our Discord community:**  
 🙋‍♀️ A short introduction - tell us a little about yourself  
 🍿 Fun facts - what do you like to eat for breakfast? Favorite movie? -- as long as it's LOTR  
 💡 Ideas - what do you think we should build? 🔨 what would you like to build? 
