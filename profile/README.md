@@ -1,28 +1,24 @@
-## Hi there 👋 We are on a mission to build tools that help digital workers get wins everyday
+<img src="https://github.com/user-attachments/assets/07f23126-21f3-47c1-a3df-7a65206bc6cd" width="120">
 
-We want to build products that are useful to the community they are part of. CodeClimber aims to be the following:
-1. Trustworthy -- You can trust it, because you built it and it lives only on your machine.
-2. Private by default -- Default settings make sure that you're the only person who has access to your data.
-3. Gamified -- Encourages high impact activity daily through thoughtful gamification 
+## Welcome to CodeClimbers 👋
 
-## What is CodeClimber?
-Digital workers like yourself crave challenges and meaningful recognition for your work. Because the work is often complex, the wins you feel on a day to day basis are limited. CodeClimber recognizes this and transforms every task tackled, every line of code written, and every innovative solution developed into an achievement. By acknowledging these daily achievements, you can gain additional motivation and convinction that you are making steps towards your goals.
+CodeClimbers is an open-source, privacy-first tool to help developers focus and spend more time coding. 
+1. Trustworthy — You can trust it, because you built it and it lives only on your machine.
+2. Private by default — Data is collected locally so you're the only person who has access to it.
+3. Free — CodeClimbers will be free forever for individuals.
 
-CodeClimber shifts the focus from conventional, top-down tools designed primarily for managers and businesses, to an individual-centric platform. Ultimately, CodeClimber is built for individuals. This radical shift puts the power of validation in the hands of those who create and contribute, enhancing autonomy and trust.
+## Our Values
 
-With CodeClimber, each digital worker is a significant player in their narrative to create the world they believe in 
+- Customer obsession: We focus on solving real customer problems through constant, high-quality research and feedback.
+- Craftsmanship: We love refining our craft, just like our users, and we demonstrate this by using our own tools.
+- Personal touch: We value meaningful, high-quality interactions over automated processes.
+- Givers, not takers: We aim to give value in every interaction in the community.
+- Net positive impact: Our goal is to provide value that enhances individuals’ well-being, not just generate revenue.
 
 ## How can I help?
 Check out the issues page and start to contribute! Please join our [Discord Community](https://discord.gg/zBnu8jGnHa) to ask any questions and learn more.
 
-
-**Here are some ideas to get you started in our Discord community:**  
+**Some ideas to get you started in Discord:**  
 🙋‍♀️ A short introduction - tell us a little about yourself  
 🍿 Fun facts - what do you like to eat for breakfast? Favorite movie? -- as long as it's LOTR  
 💡 Ideas - what do you think we should build? 🔨 what would you like to build? 
-
-<!--
-🌈 Contribution guidelines - how can the community get involved?  
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?  
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
