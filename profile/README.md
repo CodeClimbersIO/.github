@@ -9,11 +9,12 @@ CodeClimbers is an open-source, privacy-first tool to help developers focus and 
 
 ## Our Values
 
-- Customer obsession: We focus on solving real customer problems through constant, high-quality research and feedback.
-- Craftsmanship: We love refining our craft, just like our users, and we demonstrate this by using our own tools.
-- Personal touch: We value meaningful, high-quality interactions over automated processes.
-- Givers, not takers: We aim to give value in every interaction in the community.
-- Net positive impact: Our goal is to provide value that enhances individuals’ well-being, not just generate revenue.
+- We are obsessive about hearing and solving customers' problems. By pursuing what they need, we will build solutions they love and use every day. This will be apparent in the volume and quality of our product and market research.
+- Our customers love refining their craft and so do we. We demonstrate this by personally using our product and practicing what we preach.
+- Do things that don’t scale: automations should be avoided where possible, especially when it comes to talking with customers. Having fewer interactions that are heartfelt is better than having more interactions that are transactional.
+- We strive to be “givers” in our relationships with each other and our customers.
+- We believe in being a net positive to the communities we serve. Revenue is a measure of value created but in the case of productivity tools can often lead to sacrificing individuals’ well being for the benefit of a business. As we pursue revenue, we are committed to giving value to individuals instead of extracting value from them.
+
 
 ## How can I help?
 Check out the issues page and start to contribute! Please join our [Discord Community](https://discord.gg/zBnu8jGnHa) to ask any questions and learn more.
