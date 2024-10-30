@@ -5,7 +5,7 @@
 CodeClimbers is an open-source, privacy-first tool to help developers focus and spend more time coding. 
 1. Trustworthy — You can trust it, because you built it and it lives only on your machine.
 2. Private by default — Data is collected locally so you're the only person who has access to it.
-3. Free — CodeClimbers will be free forever for individuals.
+3. Open source — CodeClimbers is free and open source.
 
 ## Our Values
 
