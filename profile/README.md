@@ -2,10 +2,13 @@
 
 ## Welcome to CodeClimbers 👋
 
-CodeClimbers is an open-source, privacy-first tool to help developers focus and spend more time coding. 
+CodeClimbers is an open-source, privacy-first time-tracking tool for developers.
 1. Trustworthy — You can trust it, because you built it and it lives only on your machine.
 2. Private by default — Data is collected locally so you're the only person who has access to it.
 3. Open source — CodeClimbers is free and open source.
+
+## Try It Out
+https://codeclimbers.io/
 
 ## Our Values
 
@@ -17,9 +20,4 @@ CodeClimbers is an open-source, privacy-first tool to help developers focus and 
 
 
 ## How can I help?
-Check out the issues page and start to contribute! Please join our [Discord Community](https://discord.gg/zBnu8jGnHa) to ask any questions and learn more.
-
-**Some ideas to get you started in Discord:**  
-🙋‍♀️ A short introduction - tell us a little about yourself  
-🍿 Fun facts - what do you like to eat for breakfast? Favorite movie? -- as long as it's LOTR  
-💡 Ideas - what do you think we should build? 🔨 what would you like to build? 
+Check out the issues page and start to contribute! Please join our [Discord Community](https://discord.gg/zBnu8jGnHa) to ask any questions and learn more. 
