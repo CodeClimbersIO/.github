@@ -5,7 +5,7 @@
 CodeClimbers is an open-source, privacy-first time-tracking tool for developers.
 1. Trustworthy — You can trust it, because you built it and it lives only on your machine.
 2. Private by default — Data is collected locally so you're the only person who has access to it.
-3. Open source — CodeClimbers is free and open source [docs](https://github.com/CodeClimbersIO/cli).
+3. Open source — CodeClimbers is free and open source. Check out our [docs](https://github.com/CodeClimbersIO/cli).
 
 ## Try It Out
 https://codeclimbers.io/
