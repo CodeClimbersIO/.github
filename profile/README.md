@@ -8,7 +8,10 @@ CodeClimbers is an open-source, privacy-first time-tracking tool for developers.
 3. Open source — CodeClimbers is free and open source. Check out our [docs](https://github.com/CodeClimbersIO/cli).
 
 ## Try It Out
-https://codeclimbers.io/
+Run this in your terminal:
+```
+npx codeclimbers start
+```
 
 ## Our Values
 
