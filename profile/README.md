@@ -2,7 +2,7 @@
 
 ## Welcome to CodeClimbers 👋
 
-CodeClimbers is a community of developers developing open-source software for OS tracking and monitoring.
+CodeClimbers is a community of developers building open-source software for OS tracking and monitoring.
 
 ## Our Values
 
