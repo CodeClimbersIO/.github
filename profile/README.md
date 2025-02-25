@@ -13,5 +13,5 @@ CodeClimbers is a community of developers developing open-source software for OS
 - We believe in being a net positive to the communities we serve. Revenue is a measure of value created but in the case of tracking tools can often lead to sacrificing individuals’ well-being for the benefit of a business. As we pursue revenue, we are committed to giving value to individuals instead of extracting value from them.
 
 ## Get Involved
-1. Check out the issues page and start to contribute!
+1. Check out the issues page and start contributing to our various projects!
 2. Join our [Discord Community](https://discord.gg/zBnu8jGnHa)
